@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7axNZkcyi0ozIXbtp8q08X5TFomNMgRu/ZVed8SHqmssBqzVxEEFxAJ6qwDVhUsNTp2iu8VBNmjJLQblfnWZow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kasta\\OneDrive\\кпи\\2021 4 сессия\\смтрпз-3\\labs\\lab1\\WebApplication5\\WebApplication5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kasta\\.nuget\\packages\\microsoft.typescript.msbuild\\4.3.2\\microsoft.typescript.msbuild.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
