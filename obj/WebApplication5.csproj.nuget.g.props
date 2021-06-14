@@ -20,5 +20,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_TypeScript_MSBuild Condition=" '$(PkgMicrosoft_TypeScript_MSBuild)' == '' ">C:\Users\kasta\.nuget\packages\microsoft.typescript.msbuild\4.3.2</PkgMicrosoft_TypeScript_MSBuild>
+    <PkgBuildWebCompiler Condition=" '$(PkgBuildWebCompiler)' == '' ">C:\Users\kasta\.nuget\packages\buildwebcompiler\1.12.405</PkgBuildWebCompiler>
   </PropertyGroup>
 </Project>

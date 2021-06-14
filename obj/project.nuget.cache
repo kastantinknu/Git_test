@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7axNZkcyi0ozIXbtp8q08X5TFomNMgRu/ZVed8SHqmssBqzVxEEFxAJ6qwDVhUsNTp2iu8VBNmjJLQblfnWZow==",
+  "dgSpecHash": "zb1aGaXvBv1GuxqKhJF6etOi4Hm7VO2o71fAqQUB0k3GI9GunRgVCTglWbxLuP84T6vDtj6J0FLz8ZT7unn26A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kasta\\OneDrive\\кпи\\2021 4 сессия\\смтрпз-3\\labs\\lab1\\WebApplication5\\WebApplication5.csproj",
+  "projectFilePath": "C:\\Users\\kasta\\source\\repos\\kastantinknu\\WebApplication5 - Copy (5)\\WebApplication5.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kasta\\.nuget\\packages\\buildwebcompiler\\1.12.405\\buildwebcompiler.1.12.405.nupkg.sha512",
     "C:\\Users\\kasta\\.nuget\\packages\\microsoft.typescript.msbuild\\4.3.2\\microsoft.typescript.msbuild.4.3.2.nupkg.sha512"
   ],
   "logs": []

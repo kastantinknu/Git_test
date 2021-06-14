@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kasta\\OneDrive\\кпи\\2021 4 сессия\\смтрпз-3\\labs\\lab1\\WebApplication5\\WebApplication5.csproj": {}
+    "C:\\Users\\kasta\\source\\repos\\kastantinknu\\WebApplication5 - Copy (5)\\WebApplication5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kasta\\OneDrive\\кпи\\2021 4 сессия\\смтрпз-3\\labs\\lab1\\WebApplication5\\WebApplication5.csproj": {
+    "C:\\Users\\kasta\\source\\repos\\kastantinknu\\WebApplication5 - Copy (5)\\WebApplication5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kasta\\OneDrive\\кпи\\2021 4 сессия\\смтрпз-3\\labs\\lab1\\WebApplication5\\WebApplication5.csproj",
+        "projectUniqueName": "C:\\Users\\kasta\\source\\repos\\kastantinknu\\WebApplication5 - Copy (5)\\WebApplication5.csproj",
         "projectName": "WebApplication5",
-        "projectPath": "C:\\Users\\kasta\\OneDrive\\кпи\\2021 4 сессия\\смтрпз-3\\labs\\lab1\\WebApplication5\\WebApplication5.csproj",
+        "projectPath": "C:\\Users\\kasta\\source\\repos\\kastantinknu\\WebApplication5 - Copy (5)\\WebApplication5.csproj",
         "packagesPath": "C:\\Users\\kasta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kasta\\OneDrive\\кпи\\2021 4 сессия\\смтрпз-3\\labs\\lab1\\WebApplication5\\obj\\",
+        "outputPath": "C:\\Users\\kasta\\source\\repos\\kastantinknu\\WebApplication5 - Copy (5)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,6 +42,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "BuildWebCompiler": {
+              "target": "Package",
+              "version": "[1.12.405, )"
+            },
             "Microsoft.TypeScript.MSBuild": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
